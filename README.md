@@ -4,12 +4,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=640&lines=AI+Engineer+%7C+Python+%2B+FastAPI;Building+production+GenAI+systems;RAG+%E2%80%A2+GraphRAG+%E2%80%A2+Agents+%E2%80%A2+MCP+%E2%80%A2+Voice+AI;Evals+%2B+guardrails%2C+not+just+demos" alt="Typing SVG" />
   </p>
 
+
   <p align="center">
-    <a href="https://www.linkedin.com/in/yash-kumarsingh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/yash_singh123"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <img src="https://img.shields.io/badge/Open_to-Opportunities-22C55E?style=for-the-badge" alt="Open to opportunities" />
-    <img src="https://komarev.com/ghpvc/?username=yash6388&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
-  </p>
+  <a href="https://www.linkedin.com/in/yash-kumarsingh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/yash_singh123"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/yash-kumarsingh/"><img src="https://img.shields.io/badge/Open_to-Opportunities-22C55E?style=for-the-badge" alt="Open to opportunities" /></a>
+  <a href="https://github.com/yash6388"><img src="https://hits.sh/github.com/yash6388.svg?style=for-the-badge&label=Profile%20views&color=6366f1" alt="Profile views" /></a>
+</p>
 
   ---
 
