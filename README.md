@@ -30,7 +30,7 @@
   |---|---|---|
   | 🎙️ **[VoxDesk](https://github.com/yash6388/voxdesk)** | Multi-agent **voice AI platform for businesses**: answers customers from the business's own documents, books appointments through a custom **MCP** server, and hands off to staff. Supervisor and specialist agents talk over **A2A**. **86% Hit@1 · 100% routing · 5/5 faithfulness** on its eval suite. | LangGraph · A2A · MCP · Gemini · pgvector · FastAPI · Next.js · Whisper · Kokoro |
   | 📊 **[FilingLens](https://github.com/yash6388/FilingLens)** | **RAG over SEC 10-K filings** with cited answers and table-aware chunking. Hybrid retrieval (dense + BM25 → RRF) with cross-encoder **reranking**: **Hit@5 70% → 80%** on a hand-verified golden set. | LangGraph · Qdrant · Gemini · FastAPI · React |
-  | 💬 **TalkToGitHub** | Chat with any GitHub repository: RAG over the codebase for summaries, architecture explanations and code insights. | LangChain · Gemini · FastAPI · React |
+
 
   ---
 
