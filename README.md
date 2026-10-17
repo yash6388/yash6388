@@ -1,26 +1,69 @@
-<h1 align="center">Hi :), I'm Yash Kumar Singh😁</h1>
-<h3 align="center">A Learner 🤓</h3>
+<h1 align="center">Hey, I'm Yash Kumar Singh 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash6388&label=Profile%20views&color=0e75b6&style=flat" alt="yash6388" /> </p>
+<p align="center">
+  <a href="https://github.com/yash6388">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+agentic+AI+systems;RAG+%E2%80%A2+LangGraph+%E2%80%A2+MCP+%E2%80%A2+Voice+AI;Python+%2B+FastAPI+%2B+Next.js" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Software Development**
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-kumarsingh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/yash_singh123"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yash6388&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/yash6388](https://github.com/yash6388)
+---
 
-<!--- 📫 How to reach me **yashsingh71133@gmail.com**-->
+### 🧠 About me
 
-<!--<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash-kumar-singh-307889205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-kumar-singh-307889205" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yash_singh123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash_singh123" height="30" width="40" /></a>
-</p>-->
+- 🤖 **AI Engineer** building LLM-powered products end to end, from retrieval and agents to the API and the UI.
+- 🛠️ I work on **agentic workflows**, **RAG**, **tool use (MCP)**, **multi-agent systems (A2A)** and **voice AI**.
+- 📏 I care about AI that actually works: **evaluations**, **tracing**, guardrails and failover, not just demos.
+- 🌐 Full-stack roots (React, Angular, Node), so I can take an AI feature all the way to production.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash6388&show_icons=true&locale=en&layout=compact" alt="yash6388" /></p>
+### 🚀 Featured projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash6388&show_icons=true&locale=en" alt="yash6388" /></p>
+| Project | What it is | Stack |
+|---|---|---|
+| 🎙️ **[VoxDesk](https://github.com/yash6388/voxdesk)** | Multi-agent **voice AI platform for businesses**: answers customer questions from the business's own documents, books appointments through a custom MCP server, and hands off to staff. Evaluated with a golden dataset (86% Hit@1, 100% routing, 5/5 faithfulness). | LangGraph · A2A · MCP · Gemini · pgvector · FastAPI · Next.js · Whisper/Kokoro |
+| 📄 **[FilingLens](https://github.com/yash6388/filinglens)** | RAG over financial filings with an evaluation pipeline. | RAG · Qdrant · Python |
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash6388&" alt="yash6388" /></p>-->
+---
 
+### 🧰 Tech stack
+
+**AI / LLM**
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/A2A-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+**Backend · Frontend · Infra**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,react,nextjs,angular,tailwind,postgres,redis,mongodb,docker,aws,gcp,git,linux&perline=9" />
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yash6388&show_icons=true&hide_border=true&theme=transparent&title_color=6366f1&icon_color=6366f1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash6388&layout=compact&hide_border=true&theme=transparent&title_color=6366f1" />
+</p>
+
+---
+
+<p align="center"><i>Open to AI Engineer roles. Let's build something intelligent. 🚀</i></p>
